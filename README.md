@@ -1,2 +1,3 @@
 # NgetesAja
-Cuman ngetes gitHub aja 
+alhamdulilah, berhasil membuat repository pertamaku
+
